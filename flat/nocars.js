@@ -111,7 +111,7 @@ export async function init() {
       const kDad = seg(t, T.dad2 - 0.4, T.dad2);
       let s = vgrad('#0b0d14', '#05060a');
       if (kDad < 1) {
-        s += glow(540, 1150, 520, '#fff3d9', 0.35 * (1 - kDad)) + `<ellipse cx="540" cy="1300" rx="380" ry="60" fill="#1d222c"/>` + car(540, 1280, '#c8312b', 1.0, 1 - kDad);
+        s += glow(540, 1450, 560, '#fff3d9', 0.35 * (1 - kDad)) + `<ellipse cx="540" cy="1560" rx="400" ry="64" fill="#1d222c"/>` + car(540, 1540, '#c8312b', 1.05, 1 - kDad);
         s += chip(540, 560, 'THE FIRST NEW CAR', pop(seg(t, T.first - 0.1, T.first + 0.2)) * (1 - kDad), { size: 34, col: '#ffcf6a', border: '#ffcf6a' });
         s += chip(540, 720, `WAITING LIST: ${Math.round(11 * pop(seg(t, T.waiting, T.eleven + 0.3)))} YEARS`, pop(seg(t, T.waiting - 0.1, T.waiting + 0.2)) * (1 - kDad), { size: 32 });
       }
