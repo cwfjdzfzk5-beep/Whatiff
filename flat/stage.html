@@ -1,0 +1,28 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-Regular.otf); font-weight: 400; }
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-Medium.otf); font-weight: 500; }
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-SemiBold.otf); font-weight: 600; }
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-Bold.otf); font-weight: 700; }
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-ExtraBold.otf); font-weight: 800; }
+@font-face { font-family: Inter; src: url(/flat/fonts/Inter-Black.otf); font-weight: 900; }
+@font-face { font-family: Anton; src: url(/flat/fonts/Anton-Regular.ttf); }
+@font-face { font-family: Fredoka; src: url(/flat/fonts/Fredoka.ttf); font-weight: 300 700; }
+html, body { margin: 0; background: #000; overflow: hidden; }
+svg { display: block; width: 100vw; height: 100vh; }
+text { font-family: Fredoka, Inter, sans-serif; }
+</style></head>
+<body><svg id="s" viewBox="0 0 1080 1920" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg"></svg>
+<script type="module">
+try {
+  const qs = new URLSearchParams(location.search);
+  const mod = await import(qs.get('scene') + '?v=' + Date.now());
+  const S = await mod.init();
+  window.__meta = { fps: S.fps, totalFrames: S.totalFrames };
+  const el = document.getElementById('s');
+  window.__render = (f) => { el.innerHTML = S.frame(f); return true; };
+  await document.fonts.load('40px Anton'); await document.fonts.load('600 40px Fredoka'); await document.fonts.ready;
+  window.__ready = true;
+} catch (e) { window.__error = String(e && e.stack || e); }
+</script></body></html>

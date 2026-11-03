@@ -1,0 +1,728 @@
+[
+{
+"w": "What",
+"start": 0.346,
+"end": 0.471,
+"seg": 0
+},
+{
+"w": "if",
+"start": 0.521,
+"end": 0.646,
+"seg": 0
+},
+{
+"w": "everyone",
+"start": 0.721,
+"end": 1.121,
+"seg": 0
+},
+{
+"w": "on",
+"start": 1.146,
+"end": 1.296,
+"seg": 0
+},
+{
+"w": "Earth",
+"start": 1.346,
+"end": 1.621,
+"seg": 0
+},
+{
+"w": "woke",
+"start": 1.696,
+"end": 1.846,
+"seg": 0
+},
+{
+"w": "up",
+"start": 1.871,
+"end": 2.021,
+"seg": 0
+},
+{
+"w": "speaking",
+"start": 2.071,
+"end": 2.471,
+"seg": 0
+},
+{
+"w": "the",
+"start": 2.496,
+"end": 2.571,
+"seg": 0
+},
+{
+"w": "same",
+"start": 2.646,
+"end": 2.871,
+"seg": 0
+},
+{
+"w": "language",
+"start": 2.921,
+"end": 3.746,
+"seg": 0
+},
+{
+"w": "Seven",
+"start": 4.316,
+"end": 4.616,
+"seg": 1
+},
+{
+"w": "a",
+"start": 4.666,
+"end": 4.691,
+"seg": 1
+},
+{
+"w": "m",
+"start": 4.741,
+"end": 5.291,
+"seg": 1
+},
+{
+"w": "Your",
+"start": 5.555,
+"end": 5.705,
+"seg": 2
+},
+{
+"w": "language",
+"start": 5.755,
+"end": 6.205,
+"seg": 2
+},
+{
+"w": "teacher",
+"start": 6.28,
+"end": 6.63,
+"seg": 2
+},
+{
+"w": "walks",
+"start": 6.705,
+"end": 6.955,
+"seg": 2
+},
+{
+"w": "into",
+"start": 6.98,
+"end": 7.155,
+"seg": 2
+},
+{
+"w": "class",
+"start": 7.205,
+"end": 7.755,
+"seg": 2
+},
+{
+"w": "Nobody",
+"start": 7.905,
+"end": 8.23,
+"seg": 2
+},
+{
+"w": "needs",
+"start": 8.28,
+"end": 8.505,
+"seg": 2
+},
+{
+"w": "her",
+"start": 8.53,
+"end": 8.63,
+"seg": 2
+},
+{
+"w": "anymore",
+"start": 8.655,
+"end": 9.18,
+"seg": 2
+},
+{
+"w": "She",
+"start": 9.305,
+"end": 9.405,
+"seg": 2
+},
+{
+"w": "takes",
+"start": 9.48,
+"end": 9.73,
+"seg": 2
+},
+{
+"w": "the",
+"start": 9.78,
+"end": 9.855,
+"seg": 2
+},
+{
+"w": "day",
+"start": 9.905,
+"end": 10.13,
+"seg": 2
+},
+{
+"w": "off",
+"start": 10.18,
+"end": 10.83,
+"seg": 2
+},
+{
+"w": "Nine",
+"start": 11.45,
+"end": 11.675,
+"seg": 3
+},
+{
+"w": "a",
+"start": 11.725,
+"end": 11.8,
+"seg": 3
+},
+{
+"w": "m",
+"start": 11.875,
+"end": 12.425,
+"seg": 3
+},
+{
+"w": "Airports",
+"start": 12.665,
+"end": 13.215,
+"seg": 4
+},
+{
+"w": "hotels",
+"start": 13.29,
+"end": 13.915,
+"seg": 4
+},
+{
+"w": "menus",
+"start": 14.04,
+"end": 14.69,
+"seg": 4
+},
+{
+"w": "Suddenly",
+"start": 14.865,
+"end": 15.315,
+"seg": 4
+},
+{
+"w": "tourists",
+"start": 15.44,
+"end": 15.865,
+"seg": 4
+},
+{
+"w": "understand",
+"start": 15.915,
+"end": 16.515,
+"seg": 4
+},
+{
+"w": "everything",
+"start": 16.59,
+"end": 17.265,
+"seg": 4
+},
+{
+"w": "Including",
+"start": 17.415,
+"end": 17.915,
+"seg": 4
+},
+{
+"w": "what",
+"start": 17.965,
+"end": 18.065,
+"seg": 4
+},
+{
+"w": "the",
+"start": 18.09,
+"end": 18.19,
+"seg": 4
+},
+{
+"w": "waiter",
+"start": 18.265,
+"end": 18.59,
+"seg": 4
+},
+{
+"w": "says",
+"start": 18.665,
+"end": 18.865,
+"seg": 4
+},
+{
+"w": "about",
+"start": 18.915,
+"end": 19.165,
+"seg": 4
+},
+{
+"w": "them",
+"start": 19.215,
+"end": 19.84,
+"seg": 4
+},
+{
+"w": "Noon",
+"start": 20.398,
+"end": 21.024,
+"seg": 5
+},
+{
+"w": "Every",
+"start": 21.337,
+"end": 21.612,
+"seg": 6
+},
+{
+"w": "comment",
+"start": 21.687,
+"end": 22.012,
+"seg": 6
+},
+{
+"w": "section",
+"start": 22.087,
+"end": 22.487,
+"seg": 6
+},
+{
+"w": "on",
+"start": 22.537,
+"end": 22.637,
+"seg": 6
+},
+{
+"w": "the",
+"start": 22.662,
+"end": 22.737,
+"seg": 6
+},
+{
+"w": "planet",
+"start": 22.812,
+"end": 23.237,
+"seg": 6
+},
+{
+"w": "understands",
+"start": 23.287,
+"end": 24.012,
+"seg": 6
+},
+{
+"w": "each",
+"start": 24.062,
+"end": 24.262,
+"seg": 6
+},
+{
+"w": "other",
+"start": 24.312,
+"end": 24.762,
+"seg": 6
+},
+{
+"w": "The",
+"start": 24.887,
+"end": 24.987,
+"seg": 6
+},
+{
+"w": "internet",
+"start": 25.062,
+"end": 25.487,
+"seg": 6
+},
+{
+"w": "has",
+"start": 25.537,
+"end": 25.687,
+"seg": 6
+},
+{
+"w": "never",
+"start": 25.762,
+"end": 26.012,
+"seg": 6
+},
+{
+"w": "been",
+"start": 26.062,
+"end": 26.212,
+"seg": 6
+},
+{
+"w": "louder",
+"start": 26.262,
+"end": 26.987,
+"seg": 6
+},
+{
+"w": "Day",
+"start": 27.568,
+"end": 27.793,
+"seg": 7
+},
+{
+"w": "two",
+"start": 27.868,
+"end": 28.343,
+"seg": 7
+},
+{
+"w": "You",
+"start": 28.675,
+"end": 28.775,
+"seg": 8
+},
+{
+"w": "finally",
+"start": 28.875,
+"end": 29.3,
+"seg": 8
+},
+{
+"w": "understand",
+"start": 29.35,
+"end": 30.0,
+"seg": 8
+},
+{
+"w": "every",
+"start": 30.075,
+"end": 30.35,
+"seg": 8
+},
+{
+"w": "song",
+"start": 30.425,
+"end": 30.7,
+"seg": 8
+},
+{
+"w": "you",
+"start": 30.75,
+"end": 30.85,
+"seg": 8
+},
+{
+"w": "ever",
+"start": 30.925,
+"end": 31.175,
+"seg": 8
+},
+{
+"w": "sang",
+"start": 31.25,
+"end": 31.5,
+"seg": 8
+},
+{
+"w": "along",
+"start": 31.55,
+"end": 31.9,
+"seg": 8
+},
+{
+"w": "to",
+"start": 31.975,
+"end": 32.275,
+"seg": 8
+},
+{
+"w": "Some",
+"start": 32.55,
+"end": 32.725,
+"seg": 8
+},
+{
+"w": "of",
+"start": 32.75,
+"end": 32.8,
+"seg": 8
+},
+{
+"w": "them",
+"start": 32.825,
+"end": 33.0,
+"seg": 8
+},
+{
+"w": "are",
+"start": 33.05,
+"end": 33.15,
+"seg": 8
+},
+{
+"w": "terrible",
+"start": 33.225,
+"end": 34.1,
+"seg": 8
+},
+{
+"w": "Day",
+"start": 34.643,
+"end": 34.843,
+"seg": 9
+},
+{
+"w": "four",
+"start": 34.918,
+"end": 35.493,
+"seg": 9
+},
+{
+"w": "Your",
+"start": 35.774,
+"end": 35.924,
+"seg": 10
+},
+{
+"w": "grandma",
+"start": 35.974,
+"end": 36.424,
+"seg": 10
+},
+{
+"w": "video",
+"start": 36.474,
+"end": 36.849,
+"seg": 10
+},
+{
+"w": "calls",
+"start": 36.924,
+"end": 37.249,
+"seg": 10
+},
+{
+"w": "a",
+"start": 37.299,
+"end": 37.349,
+"seg": 10
+},
+{
+"w": "family",
+"start": 37.424,
+"end": 37.874,
+"seg": 10
+},
+{
+"w": "in",
+"start": 37.924,
+"end": 37.999,
+"seg": 10
+},
+{
+"w": "Brazil",
+"start": 38.049,
+"end": 38.699,
+"seg": 10
+},
+{
+"w": "They",
+"start": 38.824,
+"end": 38.924,
+"seg": 10
+},
+{
+"w": "talk",
+"start": 38.974,
+"end": 39.199,
+"seg": 10
+},
+{
+"w": "for",
+"start": 39.249,
+"end": 39.349,
+"seg": 10
+},
+{
+"w": "three",
+"start": 39.449,
+"end": 39.724,
+"seg": 10
+},
+{
+"w": "hours",
+"start": 39.799,
+"end": 40.174,
+"seg": 10
+},
+{
+"w": "about",
+"start": 40.224,
+"end": 40.474,
+"seg": 10
+},
+{
+"w": "recipes",
+"start": 40.524,
+"end": 41.574,
+"seg": 10
+},
+{
+"w": "Day",
+"start": 42.156,
+"end": 42.356,
+"seg": 11
+},
+{
+"w": "seven",
+"start": 42.431,
+"end": 43.056,
+"seg": 11
+},
+{
+"w": "Everyone",
+"start": 43.332,
+"end": 43.807,
+"seg": 12
+},
+{
+"w": "understands",
+"start": 43.857,
+"end": 44.582,
+"seg": 12
+},
+{
+"w": "each",
+"start": 44.607,
+"end": 44.782,
+"seg": 12
+},
+{
+"w": "other",
+"start": 44.807,
+"end": 45.057,
+"seg": 12
+},
+{
+"w": "perfectly",
+"start": 45.107,
+"end": 45.882,
+"seg": 12
+},
+{
+"w": "And",
+"start": 46.032,
+"end": 46.107,
+"seg": 12
+},
+{
+"w": "they",
+"start": 46.132,
+"end": 46.232,
+"seg": 12
+},
+{
+"w": "still",
+"start": 46.332,
+"end": 46.632,
+"seg": 12
+},
+{
+"w": "don't",
+"start": 46.682,
+"end": 46.857,
+"seg": 12
+},
+{
+"w": "agree",
+"start": 46.907,
+"end": 47.232,
+"seg": 12
+},
+{
+"w": "on",
+"start": 47.282,
+"end": 47.432,
+"seg": 12
+},
+{
+"w": "anything",
+"start": 47.507,
+"end": 48.382,
+"seg": 12
+},
+{
+"w": "Who",
+"start": 48.971,
+"end": 49.096,
+"seg": 13
+},
+{
+"w": "would",
+"start": 49.146,
+"end": 49.221,
+"seg": 13
+},
+{
+"w": "you",
+"start": 49.271,
+"end": 49.371,
+"seg": 13
+},
+{
+"w": "talk",
+"start": 49.421,
+"end": 49.671,
+"seg": 13
+},
+{
+"w": "to",
+"start": 49.721,
+"end": 49.796,
+"seg": 13
+},
+{
+"w": "first",
+"start": 49.871,
+"end": 50.271,
+"seg": 13
+},
+{
+"w": "Tell",
+"start": 50.421,
+"end": 50.596,
+"seg": 13
+},
+{
+"w": "me",
+"start": 50.621,
+"end": 50.696,
+"seg": 13
+},
+{
+"w": "in",
+"start": 50.721,
+"end": 50.771,
+"seg": 13
+},
+{
+"w": "the",
+"start": 50.796,
+"end": 50.871,
+"seg": 13
+},
+{
+"w": "comments",
+"start": 50.921,
+"end": 51.746,
+"seg": 13
+}
+]
