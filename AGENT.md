@@ -35,6 +35,7 @@ For pushing, attach the repo `cwfjdzfzk5-beep/Whatiff` with push access (add_rep
 11. **Schedule:** `create_social_post`, TikTok connection `a45a4f9f-de84-4377-b9b0-a5fdda7c649a`, publishAt from step 2, media with `durationSeconds` and a strong `thumbnailTimestampMs`, settings:
     `{"postingMethod":"DIRECT_POST","privacy":"PUBLIC_TO_EVERYONE","aiGenerated":true,"commercialContent":false,"allowComments":true,"allowDuets":true,"allowStitches":true,"acceptTerms":true}`
     Caption: hook question + 1 emoji + 1 sentence of teaser + question to the viewer + 👇, then `#whatif #<topic> #story #animation #fyp`.
+    **Also Instagram (same video, same time):** a second `create_social_post` with connection `a6a01022-ebea-4118-8334-00ba37c06ccf` (platform `instagram`, @whati_f3d), the same media URL, the same publishAt, settings `{"contentType":"reel","shareToFeed":true,"isAiGenerated":true}`, same caption but hashtags ending in `#reels` instead of `#fyp` (max 5 hashtags).
 12. **Log:** add a line to `agent_log.md` (date, id, title, slot, inspiration format), commit and push to the **pipeline** branch, including new DISPLAY/CUSTOM rules and the scene file.
 13. **Report:** send a short message (`SendUserMessage`) in German: which video, which day, what it's about, and the file to preview.
 
