@@ -409,7 +409,8 @@ def main():
     if vid in CFG: sfx = CFG[vid](words)
     elif os.path.exists(os.path.join(ROOT, 'work', vid, 'sfx.json')): sfx = [tuple(x) for x in json.load(open(os.path.join(ROOT, 'work', vid, 'sfx.json')))]
     else: sfx = [('room', 0, dur)]
-    mix = build_audio_quiet(dur, os.path.join(vo, 'narration.m4a'), sfx)
+    lv = dict(music_db=-20.0, span_db=-29.0, point_db=-11.0) if opt('--mix') == 'hype' else {}
+    mix = build_audio_quiet(dur, os.path.join(vo, 'narration.m4a'), sfx, **lv)
     P.write_wav(wavp, mix)
     meas = subprocess.run(['ffmpeg', '-nostats', '-i', wavp, '-af', 'ebur128', '-f', 'null', '-'], capture_output=True, text=True).stderr
     m = re.findall(r'I:\s+(-?[0-9.]+) LUFS', meas)

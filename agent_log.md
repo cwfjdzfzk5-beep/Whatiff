@@ -13,3 +13,9 @@
 | 2026-11-03 | rewind | Rewind 10 seconds once a day | Fri 13.11 | Day 1–30 |
 | 2026-11-03 | nocars | Every car disappears | Sat 14.11 | Clock times/months |
 | 2026-11-03 | onelang | Everyone speaks the same language | Sun 15.11 | Clock times/days |
+| 2026-11-03 | friction5 | Friction disappears for 5 seconds (HYPE reference) | not scheduled (reference/test) | 5-second countdown |
+
+## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
+- Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
+- Weak: "Phones disappear Day 1–8" – 534 views / 4 shares; "AI switches off" – 217 views / 0 shares (slow, calm, social)
+- Conclusion: from 4 Nov, produce only the HYPE format (see AGENT.md).
