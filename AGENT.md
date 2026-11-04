@@ -40,7 +40,7 @@ For pushing, attach the repo `cwfjdzfzk5-beep/Whatiff` with push access (add_rep
 ## 4. Workflow
 1. **Own data first:** `analyze_social_content_performance` for TikTok (`a45a4f9f-de84-4377-b9b0-a5fdda7c649a`, days 14, sortBy views, then shares) and Instagram (`a6a01022-ebea-4118-8334-00ba37c06ccf`). Note the top 3 and the bottom 3 in `agent_log.md` (section "Performance"). Make more of what wins, less of what flops.
 2. **Trends:** FavStash `list_recently_saved_content` (last 7 days) → format, hook type, topic category only.
-3. **Next free slot:** `list_social_posts` (QUEUE, next 14 days, TikTok connection). First day without a post → publishAt **16:00 UTC** (= 18:00 Sofia).
+3. **Next free slot:** `list_social_posts` (QUEUE, next 14 days, TikTok connection). First night without a post → publishAt **01:00 UTC** (= **03:00 Sofia**). The 18:00 slot belongs to the owner (he uploads manually) – **never schedule anything at 18:00**.
 4. **Script** (HYPE format, 30–45 s): `work/<id>/vo/make_vo.py` from `work/friction5/vo/make_vo.py`. Numbers as words in the script; add caption rules to `DISPLAY` in `post_flat.py` (front of the list, with `\b…\b`).
 5. **Voice:** `cd work/<id>/vo && mkdir -p c && python3 make_vo.py` (missing words → `CUSTOM` in `kokoro_tts.py`), then
    `ffmpeg -y -i narration_raw.wav -af "highpass=f=70,acompressor=threshold=-18dB:ratio=3:attack=5:release=80,equalizer=f=3000:t=q:w=1:g=2,loudnorm=I=-16:TP=-1.5:LRA=7" -ar 48000 -ac 1 -c:a aac -b:a 192k narration.m4a`
