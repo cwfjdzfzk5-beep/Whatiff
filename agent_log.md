@@ -14,8 +14,17 @@
 | 2026-11-03 | nocars | Every car disappears | Sat 14.11 | Clock times/months |
 | 2026-11-03 | onelang | Everyone speaks the same language | Sun 15.11 | Clock times/days |
 | 2026-11-03 | friction5 | Friction disappears for 5 seconds (HYPE reference) | not scheduled (reference/test) | 5-second countdown |
+| 2026-11-04 | gravity2 | Gravity doubles for 5 seconds (HYPE) | Mon 16.11 18:00 (TikTok + IG) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
 - Weak: "Phones disappear Day 1–8" – 534 views / 4 shares; "AI switches off" – 217 views / 0 shares (slow, calm, social)
 - Conclusion: from 4 Nov, produce only the HYPE format (see AGENT.md).
+
+## Performance (as of 4 Nov 2026, ~10:45 Sofia, last 14 days)
+- TikTok top: Glass 5 s – 7,522 views / 26 shares (HYPE). Then Phones Day 1–8 – 571 / 4; Teens Germany P1 – 357 / 2.
+- TikTok bottom: AI switches off – 219 / 0 shares.
+- Instagram top: Teens Germany P1 – 1,645 views, reach 1,254, skip 26%, 6 saves; Phones (2nd upload) – 1,341 views, skip 35%.
+- Instagram bottom: Phones (1st upload) – 281 views; off-topic Balkan reel – 159 views, skip 48%.
+- Conclusion: TikTok = physical 5-second chaos wins by 13x. IG favors the teen/series stories more (low skip) – keep watching; HYPE on IG untested until gravity2 (16.11).
+- 4 Nov run: queue full until 15.11 → gravity2 scheduled for 16.11. Trend saves (7 days) were mostly business/talking-head/suspense-rules; a saved reel mentions "rubber disappears for 5 s" → do NOT use rubber.
