@@ -13,7 +13,7 @@
 | 2026-11-03 | rewind | Rewind 10 seconds once a day | Fri 13.11 | Day 1–30 |
 | 2026-11-03 | nocars | Every car disappears | Sat 14.11 | Clock times/months |
 | 2026-11-03 | onelang | Everyone speaks the same language | Sun 15.11 | Clock times/days |
-| 2026-11-03 | friction5 | Friction disappears for 5 seconds (HYPE reference) | not scheduled (reference/test) | 5-second countdown |
+| 2026-11-03 | friction5 | Friction disappears for 5 seconds (HYPE reference) | manual 18:00 Thu 5.11 (owner) | 5-second countdown |
 | 2026-11-04 | gravity2 | Gravity doubles for 5 seconds (HYPE) | Mon 16.11 18:00 (TikTok + IG) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)

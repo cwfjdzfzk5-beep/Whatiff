@@ -61,3 +61,9 @@ For pushing, attach the repo `cwfjdzfzk5-beep/Whatiff` with push access (add_rep
 - No free slot in the next 14 days → build nothing, report.
 - FavStash/GitHub errors → report, never post another way.
 - A quality check fails twice → don't post; report what's wrong.
+
+## 6. Mode B – the owner's 18:00 video (separate daily run)
+The owner uploads one video himself every day at 18:00 Sofia. A second daily run ("WhatIf Video 18 Uhr") builds that video:
+- Same HYPE rules, same quality checks, a **different topic** than every entry in `agent_log.md` and every queued post.
+- **Do NOT schedule it in FavStash.** Host it on branch `videos` (`videos/<id>_v1.mp4`) and deliver it to the owner: `SendUserFile` with the mp4 + `SendUserMessage` (German) containing the TikTok caption, the Instagram caption (hashtags with `#reels` instead of `#fyp`, max 5) and the raw GitHub link as backup download.
+- Log it in `agent_log.md` with slot "manual 18:00 <date>".
