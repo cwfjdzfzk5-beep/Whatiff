@@ -16,6 +16,7 @@
 | 2026-11-03 | friction5 | Friction disappears for 5 seconds (HYPE reference) | manual 18:00 Thu 5.11 (owner) | 5-second countdown |
 | 2026-11-04 | gravity2 | Gravity doubles for 5 seconds (HYPE) | Mon 16.11 18:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-05 | plastic5 | All plastic disappears for 5 seconds (HYPE) | Tue 17.11 03:00 (TikTok + IG) | 5-second countdown |
+| 2026-11-05 | magnet5 | All steel turns magnetic for 5 seconds (HYPE) | manual 18:00 Fri 6.11 (owner) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -37,3 +38,8 @@
 - Instagram bottom: Teens Serbia P3 – 139 views, skip 42% (only a few hours old); Balkan reel – 164, skip 50%.
 - Conclusion: HYPE still wins TikTok by >10x; everything slow sits at ~600. IG still favours the series; first HYPE on IG is gravity2 (16.11), plastic5 the next day → compare skip rate.
 - 5 Nov run: queue full 6.–16.11 → plastic5 scheduled 17.11 01:00 UTC. Trend saves (7 days): business talking-heads, Swiss/humor skits, suspense-rules stories, "1 modern object in history" – no new material ideas copied. Avoided "screws" (already a beat in friction5) and "rubber".
+
+## 5 Nov run (Mode B, ~13:00 Sofia) – magnet5 for Fri 6.11 18:00 (owner uploads)
+- Data unchanged vs. morning: TikTok Glass 5 s 7,527 / 26 shares leads; teens/phones ~600; AI 229. IG: Teens Germany P1 1,665 (skip 26%), Balkan reel 164 (skip 50%).
+- Topic: all steel magnetic for 5 s (cars → metal ball, key ring/coins → fridge, shopping-cart snake, belt buckle → train, cranes collide). Not in log/queue/saves. Facts checked: 1/2/5 euro-cent coins are copper-plated steel (magnetic). MRI angle dropped (real fatal incidents).
+- 46.9 s, -14.1 LUFS. videos/magnet5_v1.mp4 on branch videos. Not scheduled in FavStash.
