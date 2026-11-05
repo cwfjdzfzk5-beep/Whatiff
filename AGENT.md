@@ -66,4 +66,5 @@ For pushing, attach the repo `cwfjdzfzk5-beep/Whatiff` with push access (add_rep
 The owner uploads one video himself every day at 18:00 Sofia. A second daily run ("WhatIf Video 18 Uhr") builds that video:
 - Same HYPE rules, same quality checks, a **different topic** than every entry in `agent_log.md` and every queued post.
 - **Do NOT schedule it in FavStash.** Host it on branch `videos` (`videos/<id>_v1.mp4`) and deliver it to the owner: `SendUserFile` with the mp4 + `SendUserMessage` (German) containing the TikTok caption, the Instagram caption (hashtags with `#reels` instead of `#fyp`, max 5) and the raw GitHub link as backup download.
-- Log it in `agent_log.md` with slot "manual 18:00 <date>".
+- **Which day:** the first date (starting today, Europe/Sofia) that has no "manual 18:00 <date>" entry in `agent_log.md` yet. So the run normally delivers the video for the next day, one day ahead. Say the day clearly in the message ("für morgen, Fr 6.11., 18:00").
+- Log it in `agent_log.md` with slot "manual 18:00 <date>" (date format like the existing entries, e.g. "Fri 6.11").
