@@ -17,6 +17,7 @@
 | 2026-11-04 | gravity2 | Gravity doubles for 5 seconds (HYPE) | Mon 16.11 18:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-05 | plastic5 | All plastic disappears for 5 seconds (HYPE) | Tue 17.11 03:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-05 | magnet5 | All steel turns magnetic for 5 seconds (HYPE) | manual 18:00 Fri 6.11 (owner) | 5-second countdown |
+| 2026-11-06 | glue5 | All glue vanishes for 5 seconds (HYPE) | Wed 18.11 03:00 (TikTok + IG) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -43,3 +44,17 @@
 - Data unchanged vs. morning: TikTok Glass 5 s 7,527 / 26 shares leads; teens/phones ~600; AI 229. IG: Teens Germany P1 1,665 (skip 26%), Balkan reel 164 (skip 50%).
 - Topic: all steel magnetic for 5 s (cars → metal ball, key ring/coins → fridge, shopping-cart snake, belt buckle → train, cranes collide). Not in log/queue/saves. Facts checked: 1/2/5 euro-cent coins are copper-plated steel (magnetic). MRI angle dropped (real fatal incidents).
 - 46.9 s, -14.1 LUFS. videos/magnet5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 6 Nov 2026, ~10:45 Sofia, last 14 days)
+- TikTok top: Glass 5 s – 7,527 views / 26 shares (HYPE, still >7x everything else). Then Teens France P2 (FavStash re-upload 5.11 19:34) – 973 / 22 likes / 0 shares; Teens Germany P1 – 634 / 2 shares.
+- TikTok bottom: Draft P1 (6.11 03:00, only hours old) – 177; AI switches off – 229 / 0; Phones Day 1–8 – 583.
+- Instagram top: Teens Germany P1 – 1,672 views, skip 26.4%, avg watch 40 s, 6 saves; Teens France P2 – 1,414 (skip 28.6%); France P2 1st upload – 1,374.
+- Instagram bottom: Draft P1 – 126 (skip 44%, hours old); Serbia P3 – 143 (skip 43%); Balkan reel – 169 (skip 51.5%).
+- Conclusion: TikTok = HYPE physical chaos still the only breakout; slow formats plateau at ~600–970. IG still prefers the teen series (low skip); first HYPE test on IG is gravity2 (16.11). Keep HYPE.
+
+## 6 Nov run (03:00 slot) – glue5 for Wed 18.11 01:00 UTC
+- Queue full 7.–17.11 (01:00 UTC) → first free night 18.11. Scheduled TikTok (Direct Post, public, AI label) + IG Reel (shareToFeed, AI) with the same media, thumb 14.8 s (SAWDUST).
+- Topic: all glue vanishes for 5 s (sneaker soles peel off, labels/stamps/stickers rain, particle-board shelf → sawdust + TV drops, paperbacks explode into pages, boxes unfold, phone screen pops off, windshield peels off; glue returns "exactly where it was – which is now the floor"; guy in socks holding his windshield, alive and sticky). Not in log/queue/saves.
+- Facts checked: windshields are bonded with urethane adhesive (Jalopnik / 3M); particle board = wood chips + resin; phone screens/paperback spines/cardboard boxes are glued.
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense "rules" stories, modern-object-in-history – only signals, nothing copied.
+- 43.6 s, -14.1 LUFS. videos/glue5_v1.mp4 on branch videos.
