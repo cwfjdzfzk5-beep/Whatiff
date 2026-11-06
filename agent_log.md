@@ -18,6 +18,7 @@
 | 2026-11-05 | plastic5 | All plastic disappears for 5 seconds (HYPE) | Tue 17.11 03:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-05 | magnet5 | All steel turns magnetic for 5 seconds (HYPE) | manual 18:00 Fri 6.11 (owner) | 5-second countdown |
 | 2026-11-06 | glue5 | All glue vanishes for 5 seconds (HYPE) | Wed 18.11 03:00 (TikTok + IG) | 5-second countdown |
+| 2026-11-06 | wood5 | All wood vanishes for 5 seconds (HYPE) | manual 18:00 Sat 7.11 (owner) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -58,3 +59,10 @@
 - Facts checked: windshields are bonded with urethane adhesive (Jalopnik / 3M); particle board = wood chips + resin; phone screens/paperback spines/cardboard boxes are glued.
 - Trend saves (7 days): business talking-heads, Swiss humor skits, suspense "rules" stories, modern-object-in-history – only signals, nothing copied.
 - 43.6 s, -14.1 LUFS. videos/glue5_v1.mp4 on branch videos.
+
+## 6 Nov run (Mode B) – wood5 for Sat 7.11 18:00 (owner uploads)
+- Data (14 days): TikTok Glass 5 s 7,527 / 26 shares still leads; Teens France P2 973; Teens Germany P1 634; Phones 583. IG: Teens Germany P1 1,672 (skip 26.5%), France P2 1,426; Balkan reel 169 (skip 51.5%). No change → HYPE.
+- Topic: all wood vanishes for 5 s (you drop off your chair, lecture hall collapses + pasta on the carpet, 3 trillion trees vanish → leaves hang → green blizzard, piano pinblock/wood gone → 20 tons of string tension released, staircase gone mid-climb + door gone → boss sees the nap, pencil/chopstick/bat mid-swing; trees back, leaves not → leaf-blower dad's best day). Not in log/queue/saves.
+- Facts checked: ~3 trillion trees (Crowther et al., Nature 2015); grand piano string tension ~20 tons (held by tuning pins in a wooden pinblock); MLB bats are wood.
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules stories, modern-object-in-history – signals only, nothing copied.
+- 46.3 s, -14.0 LUFS. videos/wood5_v1.mp4 on branch videos. Not scheduled in FavStash.
