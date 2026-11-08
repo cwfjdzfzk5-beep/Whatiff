@@ -19,6 +19,7 @@
 | 2026-11-05 | magnet5 | All steel turns magnetic for 5 seconds (HYPE) | manual 18:00 Fri 6.11 (owner) | 5-second countdown |
 | 2026-11-06 | glue5 | All glue vanishes for 5 seconds (HYPE) | Wed 18.11 03:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-06 | wood5 | All wood vanishes for 5 seconds (HYPE) | manual 18:00 Sat 7.11 (owner) | 5-second countdown |
+| 2026-11-08 | ice5 | All water on Earth freezes for 5 seconds (HYPE) | Sat 14.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -66,3 +67,18 @@
 - Facts checked: ~3 trillion trees (Crowther et al., Nature 2015); grand piano string tension ~20 tons (held by tuning pins in a wooden pinblock); MLB bats are wood.
 - Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules stories, modern-object-in-history – signals only, nothing copied.
 - 46.3 s, -14.0 LUFS. videos/wood5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 8 Nov 2026, ~08:30 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,532 views / 26 shares (HYPE). Teens France P2 (re-upload) 982; Teens Germany P1 637 / 2 shares.
+- TikTok bottom: magnet5 (HYPE, 6.11 17:00) only 205 / 0 shares; Draft P1 199; Thoughts 189 / 3 shares; Draft P2 190; Cars (posted 7.11 17:05) 180.
+- Instagram top: Teens Germany P1 1,676 (skip 26.6%); France P2 1,462; Cars 1,432 (skip 30%); Thoughts 1,358 (skip 24.8%); magnet5 1,309 (skip 24.3%, but avg watch only 19 s and 0 shares).
+- Instagram bottom: Draft P2 133 (skip 52.9%, hours old); Serbia P3 148; Draft P1 152.
+- Conclusion: the second HYPE video (magnet5) did NOT repeat Glass on TikTok (205 vs 7,532), so one breakout is not yet a proven format. All recent TikToks sit around 180–200 regardless of format; on IG magnet5 has a good skip rate. Keep HYPE as instructed, watch gravity2/plastic5/glue5/ice5.
+
+## 8 Nov run (night slot) – ice5 for Sat 14.11 04:00 Berlin / 03:00 UTC
+- 14.11 was the first free night: nocars was already posted on 7.11 17:05, so its old slot is empty (queue has 9.–13., 15.–18.). Scheduled TikTok (Direct Post, public, AI label) + IG Reel (shareToFeed, AI), same media, thumb 8.4 s (BURST).
+- Topic: all water freezes for 5 s (pipes burst, sodas pop, fridge door flies off, Niagara stops, ocean locks + ships parked, wet roads = rink, coffee brick, body water spared; water back through every broken pipe; Texas guy holding fridge door, "act of God – it was me"). Not in log/queue/saves.
+- Facts: water expands ~9% on freezing, soda cans burst when frozen, pipes burst. No numbers beyond the 9% on screen. Stylised 5-s premise (instant freezing is not physical, as with every video in this series).
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules stories, modern-object-in-history – signals only, nothing copied.
+- Setup note: setup.sh prints "setup ok" even when the model download failed (GitHub 504 → the `tar … && rm` line doesn't trip set -e). Models needed a retry here.
+- 47.8 s, -14.1 LUFS. videos/ice5_v1.mp4 on branch videos.
