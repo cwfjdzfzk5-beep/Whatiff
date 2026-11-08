@@ -20,6 +20,7 @@
 | 2026-11-06 | glue5 | All glue vanishes for 5 seconds (HYPE) | Wed 18.11 03:00 (TikTok + IG) | 5-second countdown |
 | 2026-11-06 | wood5 | All wood vanishes for 5 seconds (HYPE) | manual 18:00 Sat 7.11 (owner) | 5-second countdown |
 | 2026-11-08 | ice5 | All water on Earth freezes for 5 seconds (HYPE) | Sat 14.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
+| 2026-11-08 | concrete5 | All concrete vanishes for 5 seconds (HYPE) | manual 18:00 Sun 8.11 (owner) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -82,3 +83,15 @@
 - Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules stories, modern-object-in-history – signals only, nothing copied.
 - Setup note: setup.sh prints "setup ok" even when the model download failed (GitHub 504 → the `tar … && rm` line doesn't trip set -e). Models needed a retry here.
 - 47.8 s, -14.1 LUFS. videos/ice5_v1.mp4 on branch videos.
+
+## Performance (as of 8 Nov 2026, ~10:50 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,532 views / 26 shares (HYPE); Teens France P2 re-upload 982; Teens Germany P1 638 / 2 shares. Unchanged since this morning.
+- Instagram top: Teens Germany P1 1,676 (skip 26.6%); France P2 1,462; Cars 1,433 (skip 30.4%).
+
+## 8 Nov run (Mode B, ~13:00 Sofia) – concrete5 for Sun 8.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Sun 8.11), so this video is for TODAY 18:00, not tomorrow.
+- Topic: all concrete vanishes for 5 s (sidewalks/roads gone, you + car drop into dirt; floor gone, only rebar = "birdcage"; skyscrapers = steel skeletons; Hoover Dam gone / Lake Mead takes a step; Pantheon dome gone "1900 years, hell of a run"; bus on bare steel, driver won't open the doors; concrete back, left shoe cast in the sidewalk forever). Not in log/queue/saves.
+- Facts checked: Hoover Dam is a concrete arch-gravity dam (USBR); Pantheon dome = unreinforced concrete, ~126 AD. Stylised premise, rebar left standing.
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules, modern object in history – signals only, nothing copied.
+- Setup note: kokoro download failed again on the first try (GitHub "upstream request failed"), retried OK. SFX durations: crumble ≥1.3, boom ≥1.4, screech ≥1.5, crash/clatter/sting ≥1.0, else env_ad breaks.
+- 44.9 s, -14.1 LUFS. videos/concrete5_v1.mp4 on branch videos. Not scheduled in FavStash.
