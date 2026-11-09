@@ -22,6 +22,7 @@
 | 2026-11-08 | ice5 | All water on Earth freezes for 5 seconds (HYPE) | Sat 14.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
 | 2026-11-08 | concrete5 | All concrete vanishes for 5 seconds (HYPE) | manual 18:00 Sun 8.11 (owner) | 5-second countdown |
 | 2026-11-09 | copper5 | All copper vanishes for 5 seconds (HYPE) | Thu 19.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
+| 2026-11-09 | square5 | Every wheel on Earth turns square for 5 seconds (HYPE) | manual 18:00 Mon 9.11 (owner) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -111,3 +112,11 @@
 - Trend saves (7 days): business talking-heads, Swiss/"very X time in my life" skits, suspense rules stories, modern object in history, "Claude made this" reels – signals only, nothing copied.
 - 48.2 s (over the 30-45 s target, under the 50 s cap; ice5 was 47.8), -14.0 LUFS. videos/copper5_v1.mp4 on branch videos.
 - Setup note: `--stills` takes frame numbers, not seconds. curl to raw.githubusercontent gets 403 in this sandbox, FavStash import works anyway. add_repo tool not available here; the repo was already attached and pushing worked.
+
+## 9 Nov run (Mode B, ~13:00 Sofia) – square5 for Mon 9.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Mon 9.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,536 / 26 shares still the only breakout; Teens France P2 985; Teens Germany P1 639. Unchanged → HYPE.
+- Topic: every wheel on Earth turns square for 5 s (highway at 70, 1.5 billion cars bang, office chair stops/you don't, shopping carts "no change", trains hammer tracks + still delayed, jumbo hops, gears jam, Ferris wheel = window frame; wheels back, everyone alive, nobody can sit; real payoff: square wheels roll smoothly on a road of curved bumps). Not in log/queue/saves.
+- Facts checked: ~1.5 billion cars (Jalopnik); square wheels roll on catenary road, built by math professor Stan Wagon at Macalester College (Science News, Macalester). Road in the science shot is the real catenary geometry.
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules, modern object in history, "Claude made this" reels – signals only, nothing copied.
+- 49.9 s (over the 30–45 s target, just under the 50 s cap), -14.0 LUFS. videos/square5_v1.mp4 on branch videos. Not scheduled in FavStash.

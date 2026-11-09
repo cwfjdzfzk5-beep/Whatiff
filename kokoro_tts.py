@@ -35,7 +35,7 @@ SESS = ort.InferenceSession(f'{M}/model.onnx', providers=['CPUExecutionProvider'
 VOICES = np.fromfile(f'{M}/voices.bin', dtype=np.float32).reshape(-1, 510, 1, 256)
 
 VOICELESS = set('ptkfθ')
-CUSTOM = {'niagara': ['n', 'I', 'ˈ', 'æ', 'ɡ', 'ɹ', 'ə'], 'livestream': ['l', 'ˈ', 'I', 'v', 's', 't', 'ɹ', 'ˌ', 'i', 'm'], 'livestreamed': ['l', 'ˈ', 'I', 'v', 's', 't', 'ɹ', 'ˌ', 'i', 'm', 'd'], 'eiffel': ['ˈ', 'I', 'f', 'ə', 'l'], 'burek': ['b', 'ˈ', 'u', 'ɹ', 'ɛ', 'k'], 'autobahn': ['ˈ', 'W', 't', 'O', 'b', 'ˌ', 'ɑ', 'n'], 'tiktok': ['t', 'ˈ', 'ɪ', 'k', 't', 'ˌ', 'ɑ', 'k'], 'tock': ['t', 'ˈ', 'ɑ', 'k'], 'declined': ['d', 'ə', 'k', 'l', 'ˈ', 'I', 'n', 'd'], 'wifi': ['w', 'ˈ', 'I', 'f', 'ˌ', 'I'], 'tv': ['t', 'ˌ', 'i', 'v', 'ˈ', 'i'], 'hr': ['ˌ', 'A', 'ʧ', 'ˈ', 'ɑ', 'ɹ'], 'eu': ['ˌ', 'i', 'j', 'ˈ', 'u']}
+CUSTOM = {'ferris':'fˈɛɹɪs','niagara': ['n', 'I', 'ˈ', 'æ', 'ɡ', 'ɹ', 'ə'], 'livestream': ['l', 'ˈ', 'I', 'v', 's', 't', 'ɹ', 'ˌ', 'i', 'm'], 'livestreamed': ['l', 'ˈ', 'I', 'v', 's', 't', 'ɹ', 'ˌ', 'i', 'm', 'd'], 'eiffel': ['ˈ', 'I', 'f', 'ə', 'l'], 'burek': ['b', 'ˈ', 'u', 'ɹ', 'ɛ', 'k'], 'autobahn': ['ˈ', 'W', 't', 'O', 'b', 'ˌ', 'ɑ', 'n'], 'tiktok': ['t', 'ˈ', 'ɪ', 'k', 't', 'ˌ', 'ɑ', 'k'], 'tock': ['t', 'ˈ', 'ɑ', 'k'], 'declined': ['d', 'ə', 'k', 'l', 'ˈ', 'I', 'n', 'd'], 'wifi': ['w', 'ˈ', 'I', 'f', 'ˌ', 'I'], 'tv': ['t', 'ˌ', 'i', 'v', 'ˈ', 'i'], 'hr': ['ˌ', 'A', 'ʧ', 'ˈ', 'ɑ', 'ɹ'], 'eu': ['ˌ', 'i', 'j', 'ˈ', 'u']}
 def lookup(w):
     """Lexicon lookup with simple fallbacks for plurals and 's contractions."""
     if w in CUSTOM: return CUSTOM[w]
