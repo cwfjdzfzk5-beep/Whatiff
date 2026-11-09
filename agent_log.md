@@ -21,6 +21,7 @@
 | 2026-11-06 | wood5 | All wood vanishes for 5 seconds (HYPE) | manual 18:00 Sat 7.11 (owner) | 5-second countdown |
 | 2026-11-08 | ice5 | All water on Earth freezes for 5 seconds (HYPE) | Sat 14.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
 | 2026-11-08 | concrete5 | All concrete vanishes for 5 seconds (HYPE) | manual 18:00 Sun 8.11 (owner) | 5-second countdown |
+| 2026-11-09 | copper5 | All copper vanishes for 5 seconds (HYPE) | Thu 19.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -95,3 +96,18 @@
 - Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules, modern object in history – signals only, nothing copied.
 - Setup note: kokoro download failed again on the first try (GitHub "upstream request failed"), retried OK. SFX durations: crumble ≥1.3, boom ≥1.4, screech ≥1.5, crash/clatter/sting ≥1.0, else env_ad breaks.
 - 44.9 s, -14.1 LUFS. videos/concrete5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 9 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,536 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 639 / 2 shares.
+- TikTok bottom: Draft P3 175 (hours old); Cars 187; Thoughts 195 / 3 shares; Draft P1 200; magnet5 (HYPE) 208 / 0 shares.
+- Instagram top: Teens Germany P1 1,676; France P2 1,462; Cars 1,439.
+- Instagram bottom: Draft P3 130 (hours old); Draft P2 137; Serbia P3 149.
+- Conclusion: still only ONE HYPE breakout (Glass); magnet5, the only other HYPE video already out long enough, sits at ~200 like everything else. Evidence for HYPE remains thin; gravity2/plastic5/glue5/ice5 (14.–18.11) are the real test. Copper picked for US prime-time hook (Statue of Liberty) + everyday objects (keys, car, elevator).
+
+## 9 Nov run (night slot) – copper5 for Thu 19.11 04:00 Berlin / 03:00 UTC
+- Queue full 10.–18.11 → first free night 19.11. Scheduled TikTok (Direct Post, public, AI label) + IG Reel (shareToFeed, AI), same media, thumb 34.6 s (GONE / iron skeleton).
+- Topic: all copper vanishes for 5 s (power lines = just poles, internet over; car loses up to a mile of wire, everybody coasts; elevators stop, guy stuck with Greg from accounting who has a podcast; pipes gone, bathroom fountain, brass keys gone = locked out of your own flood; Lady Liberty's skin gone, iron skeleton; copper back, every alarm; Greg is on episode two). Not in log/queue/saves.
+- Facts checked: Statue skin 3/32 in over wrought iron frame (City Reliquary), commonly described as two pennies thick; luxury cars ~1,500 copper wires ~1 mile (Twin Metals/Copper Development info sheet); brass keys 60-70% copper (engineerfix). Brass treated as "copper gone" = stylised. Statue drawn as generic original shape.
+- Trend saves (7 days): business talking-heads, Swiss/"very X time in my life" skits, suspense rules stories, modern object in history, "Claude made this" reels – signals only, nothing copied.
+- 48.2 s (over the 30-45 s target, under the 50 s cap; ice5 was 47.8), -14.0 LUFS. videos/copper5_v1.mp4 on branch videos.
+- Setup note: `--stills` takes frame numbers, not seconds. curl to raw.githubusercontent gets 403 in this sandbox, FavStash import works anyway. add_repo tool not available here; the repo was already attached and pushing worked.
