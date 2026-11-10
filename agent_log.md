@@ -120,3 +120,20 @@
 - Facts checked: ~1.5 billion cars (Jalopnik); square wheels roll on catenary road, built by math professor Stan Wagon at Macalester College (Science News, Macalester). Road in the science shot is the real catenary geometry.
 - Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules, modern object in history, "Claude made this" reels – signals only, nothing copied.
 - 49.9 s (over the 30–45 s target, just under the 50 s cap), -14.0 LUFS. videos/square5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 10 Nov 2026, ~08:30 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,540 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
+- TikTok bottom: square5 (HYPE, 9.11 17:14) 184; Cars 187; Thoughts 196; Draft P1 200; magnet5 (HYPE) 208 / 0 shares.
+- Instagram top: Teens Germany P1 1,676 (skip 26.6%); France P2 1,462; Cars 1,439; square5 1,385 after <1 day (skip 27.4%) – HYPE does fine on IG.
+- Instagram bottom: Draft P3 134; Draft P2 137 (skip 52.8%); Serbia P3 149.
+- Conclusion: TikTok still flat at ~200 for everything except Glass; second-day HYPE uploads (magnet5, square5) didn't break out. IG reaches ~1.3-1.4k for HYPE with low skip. Keep HYPE; real test is the queued 14.–20.11 batch.
+
+## 10 Nov run (night slot) – helium5 for Fri 20.11 04:00 Berlin / 03:00 UTC
+- Queue full 11.–19.11 → first free night 20.11. Scheduled TikTok (Direct Post, public, AI label) + IG Reel (shareToFeed, AI), same media, thumb 15.3 s (7x LIGHTER / plane).
+- Topic: all air turns into helium for 5 s (no oxygen → every engine dies, every fire/stove/grill/candle out, highway coasts in silence; air 7x lighter → wings can't grip, planes drop; birds drop, every party balloon hits the floor; you scream and come out as a cartoon squeak (pitched-up VO); every blimp drops – helium in a helium sky = dead weight; air back, engines cough, planes catch the sky; boss alive and says "Great job, team." in helium voice). Not in log/queue/saves.
+- Facts checked: helium density ~0.18 vs air ~1.2 kg/m³ (~7x lighter); lift ∝ air density (NASA lift equation); helium voice shift because sound travels ~3x faster in helium (Scientific American). Combustion needs oxygen. Nothing encourages inhaling helium.
+- New trick: make_vo.py supports a 4th CH field 'he' → segment resampled 1.45x (chipmunk voice), word timings scaled.
+- Trend saves (7 days): business talking-heads, Swiss humor skits, suspense rules story, motivational talking head – signals only, nothing copied.
+- 43.9 s, -14.1 LUFS. videos/helium5_v1.mp4 on branch videos.
+- WARNING: FavStash plan "Doom Scroller" reports 0 scheduled posts left this month after these two posts → further runs this month cannot schedule unless the owner upgrades.
+- SFX note: 'flap' span needs ≥0.5 s or env_ad breaks.
