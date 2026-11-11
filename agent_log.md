@@ -137,6 +137,7 @@
 - 43.9 s, -14.1 LUFS. videos/helium5_v1.mp4 on branch videos.
 - WARNING: FavStash plan "Doom Scroller" reports 0 scheduled posts left this month after these two posts → further runs this month cannot schedule unless the owner upgrades.
 - SFX note: 'flap' span needs ≥0.5 s or env_ad breaks.
+| 2026-11-11 | alu5 | All aluminum vanishes for 5 seconds (HYPE) | manual 18:00 Wed 11.11 (owner) | 5-second countdown |
 | 2026-11-11 | drag5 | Air resistance switches off for 5 seconds (HYPE) | NOT scheduled – FavStash post limit (50/50) reached; intended slot Sat 21.11 04:00 Berlin / 03:00 UTC | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
@@ -153,3 +154,11 @@
 - Trend saves (7 days): only 2 business talking-heads ("improve 5%", "why money moves") – nothing usable, nothing copied.
 - 45.2 s, -14.1 LUFS. videos/drag5_v1.mp4 on branch videos; FavStash media already imported (f06e220a-…mp4) → can be scheduled as soon as the limit allows. Suggested thumb 33.2 s (230 MPH).
 - Caption ready: "What if air resistance switched off for 5 seconds? 🪂💥 Your parachute is useless, rain hits like gravel – and you're doing 230 mph. What should switch off next? 👇" + #whatif #physics #chaos #animation #fyp (IG: #reels instead of #fyp).
+
+## 11 Nov run (Mode B, ~13:00 Sofia) – alu5 for Wed 11.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Wed 11.11; Tue 10.11 also had none but is past), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,545 / 26 shares still the only breakout; Teens France P2 985; magnet5 208. IG: Teens Germany P1 1,676; square5 1,395; nosleep 1,383 after <1 day. Unchanged → HYPE.
+- Topic: all aluminum vanishes for 5 s (you're on a plane → plane gone, you + seat cushion + 35,000 ft; every soda can mid-drink; laptop shell gone, keyboard in your lap; aluminum window frames gone → panes slide out, raining glass on an empty street; ladder gone, grab the gutter, also aluminum, "Hell." → hedge; pickup at 60, aluminum body gone, guy on a steel frame screaming; aluminum back, plane snaps around you, everyone alive, "chicken or pasta?"). Not in log/queue/saves.
+- Facts checked: 737-class airliners are mostly aluminum alloy (787 ~50% composite – not claimed); F-150 aluminum body on steel frame since 2015; cans/ladders/gutters/window frames/laptop shells commonly aluminum. Stylised 5-s premise.
+- Trend saves (7 days): only 2 business talking-heads – nothing usable, nothing copied.
+- 44.7 s, -14.1 LUFS. videos/alu5_v1.mp4 on branch videos. Not scheduled in FavStash.
