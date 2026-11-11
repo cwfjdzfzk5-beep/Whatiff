@@ -137,3 +137,19 @@
 - 43.9 s, -14.1 LUFS. videos/helium5_v1.mp4 on branch videos.
 - WARNING: FavStash plan "Doom Scroller" reports 0 scheduled posts left this month after these two posts → further runs this month cannot schedule unless the owner upgrades.
 - SFX note: 'flap' span needs ≥0.5 s or env_ad breaks.
+| 2026-11-11 | drag5 | Air resistance switches off for 5 seconds (HYPE) | NOT scheduled – FavStash post limit (50/50) reached; intended slot Sat 21.11 04:00 Berlin / 03:00 UTC | 5-second countdown |
+
+## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
+- TikTok bottom: Thoughts 196; Draft P1 201; magnet5 (HYPE) 208 / 0 shares; square5 (HYPE) not in top 12 (<196).
+- Instagram top: Teens Germany P1 1,676 (6 saves); France P2 1,462; Cars 1,444; square5 1,395 (reach 1,218); nosleep 1,378 after <1 day (2 shares).
+- Instagram bottom: His German boss 175; Draft P1 152.
+- Conclusion: unchanged – TikTok flat at ~200 for everything except Glass; IG ~1.3–1.4k for every What-if incl. HYPE. Queued HYPE batch (14.–20.11) is the real test.
+
+## 11 Nov run (night slot) – drag5, NOT scheduled
+- Queue full 12.–20.11 → first free night Sat 21.11 03:00 UTC. create_social_post (TikTok + IG in one atomic group) rejected: LIMIT_REACHED_POSTS (50/50 on "Doom Scroller", resets with the next billing month ~1./3.12). Nothing posted.
+- Topic: air resistance switches off for 5 s (you're skydiving, parachute useless, +22 mph every second → running "YOU: xxx MPH" counter on every shot; rain speeds up, umbrellas hammered; feather falls like a hammer (Apollo 15 chip), office paper slams the floor; storm wind can't push, palm trees snap upright; curveballs fly straight; 230 mph; air back hits like a wall, parachute pops; alive, legs jelly, hair straight up forever). Not in log/queue/saves.
+- Facts checked: belly-to-earth terminal velocity ~120 mph; g ≈ 22 mph per second (120 + 5×22 ≈ 230); Apollo 15 hammer-feather drop (NASA, 1971); curveball needs air (Magnus effect). Rain/storm effects stylised, no numbers on screen.
+- Trend saves (7 days): only 2 business talking-heads ("improve 5%", "why money moves") – nothing usable, nothing copied.
+- 45.2 s, -14.1 LUFS. videos/drag5_v1.mp4 on branch videos; FavStash media already imported (f06e220a-…mp4) → can be scheduled as soon as the limit allows. Suggested thumb 33.2 s (230 MPH).
+- Caption ready: "What if air resistance switched off for 5 seconds? 🪂💥 Your parachute is useless, rain hits like gravel – and you're doing 230 mph. What should switch off next? 👇" + #whatif #physics #chaos #animation #fyp (IG: #reels instead of #fyp).
