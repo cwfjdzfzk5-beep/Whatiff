@@ -162,3 +162,13 @@
 - Facts checked: 737-class airliners are mostly aluminum alloy (787 ~50% composite – not claimed); F-150 aluminum body on steel frame since 2015; cans/ladders/gutters/window frames/laptop shells commonly aluminum. Stylised 5-s premise.
 - Trend saves (7 days): only 2 business talking-heads – nothing usable, nothing copied.
 - 44.7 s, -14.1 LUFS. videos/alu5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 12 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,546 views / 26 shares (HYPE); Teens France P2 re-upload 986; Teens Germany P1 640 / 2 shares; Serbia P3 626.
+- TikTok bottom (of top 8): "Real or fake? Switzerland" (11.11) 253; Draft P3 240. HYPE uploads magnet5/square5 not in top 8.
+- Instagram top: Teens Germany P1 1,681; France P2 1,464; Cars 1,446; Salaries public 1,435 (<1 day); nosleep 1,400 / 2 shares; square5 1,398.
+- Conclusion: unchanged – TikTok only breakout is still Glass; IG ~1.4k for every What-if.
+
+## 12 Nov run (night slot) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (billing period ends 3.12.2026). Queue full 13.–20.11 → first free night Sat 21.11 03:00 UTC, already covered by drag5 (built 11.11, media imported, unscheduled).
+- Decision: no new video built – scheduling impossible and drag5 already waits for the same slot; a second unschedulable video would only pile up. Owner informed (upgrade or manual upload of drag5).
