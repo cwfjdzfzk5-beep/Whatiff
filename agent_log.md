@@ -139,6 +139,7 @@
 - SFX note: 'flap' span needs ≥0.5 s or env_ad breaks.
 | 2026-11-11 | alu5 | All aluminum vanishes for 5 seconds (HYPE) | manual 18:00 Wed 11.11 (owner) | 5-second countdown |
 | 2026-11-11 | drag5 | Air resistance switches off for 5 seconds (HYPE) | NOT scheduled – FavStash post limit (50/50) reached; intended slot Sat 21.11 04:00 Berlin / 03:00 UTC | 5-second countdown |
+| 2026-11-12 | rubber5 | All rubber vanishes for 5 seconds (HYPE) | manual 18:00 Thu 12.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -172,3 +173,11 @@
 ## 12 Nov run (night slot) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (billing period ends 3.12.2026). Queue full 13.–20.11 → first free night Sat 21.11 03:00 UTC, already covered by drag5 (built 11.11, media imported, unscheduled).
 - Decision: no new video built – scheduling impossible and drag5 already waits for the same slot; a second unschedulable video would only pile up. Owner informed (upgrade or manual upload of drag5).
+
+## 12 Nov run (Mode B, ~13:00 Sofia) – rubber5 for Thu 12.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Thu 12.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,546 / 26 shares still the only breakout; Teens France P2 987; Teens Germany P1 640. IG: Teens Germany P1 1,681; France P2 1,464; Cars 1,446; Salaries 1,436 (<8 h, skip 24.9%). Unchanged → HYPE.
+- Topic: all rubber vanishes for 5 s (you're mid bungee jump → cord gone, free fall + scream; highway cars drop onto rims, sparks, nobody can stop; jumbo jet lands, tires gone, ~300 t screeching on bare metal; washing machine door seals gone, basement floods "Great."; every latex balloon pops at once, birthday party = war movie; rubber back, cord snaps tight, you stop 1 inch above the river, alive; pilot alive, "needs new pants"). Not in log/queue/saves.
+- Facts checked: bungee cords = elastic rubber strands (Wikipedia "Bungee cord"); 747-400 max landing weight ~285–296 t (Aerocorner) → "nearly 300 tons"; driving on bare rims throws sparks (Wheels24). Balloons limited to "latex" (foil ones aren't rubber).
+- Trend saves (7 days): none.
+- 41.8 s, -14.0 LUFS. videos/rubber5_v1.mp4 on branch videos. Not scheduled in FavStash.
