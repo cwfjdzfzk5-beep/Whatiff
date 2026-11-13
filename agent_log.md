@@ -181,3 +181,14 @@
 - Facts checked: bungee cords = elastic rubber strands (Wikipedia "Bungee cord"); 747-400 max landing weight ~285–296 t (Aerocorner) → "nearly 300 tons"; driving on bare rims throws sparks (Wheels24). Balloons limited to "latex" (foil ones aren't rubber).
 - Trend saves (7 days): none.
 - 41.8 s, -14.0 LUFS. videos/rubber5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 13 Nov 2026, ~09:00 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,547 views / 26 shares (HYPE); Teens France P2 re-upload 987; Teens Germany P1 640 / 2 shares.
+- TikTok bottom (of top 10): Draft P2 213; AI switches off 235; Draft P3 240; "Real or fake? Switzerland" 255. HYPE uploads magnet5/square5/alu5/rubber5 not in top 10 (<213).
+- Instagram top: Teens Germany P1 1,681 (skip 26.6%, 6 saves); France P2 1,466; Rewind 10 s 1,463 after <6 h (skip 29.4%); Salaries 1,448; Cars 1,448.
+- Instagram bottom: German boss reel 181 (skip 52%); Phones 1,264; magnet5 1,313 (avg watch only 19 s, 8 likes).
+- Conclusion: unchanged – TikTok only breakout still Glass; IG ~1.3–1.5k for every What-if, HYPE has weaker avg watch time on IG than the story formats.
+
+## 13 Nov run (night slot) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 14.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC, already reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.11): no new video – scheduling impossible, a second unschedulable video only piles up. Owner informed again (upgrade to Creator Pro or upload drag5 manually).
