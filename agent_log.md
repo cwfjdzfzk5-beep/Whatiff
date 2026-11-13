@@ -140,6 +140,7 @@
 | 2026-11-11 | alu5 | All aluminum vanishes for 5 seconds (HYPE) | manual 18:00 Wed 11.11 (owner) | 5-second countdown |
 | 2026-11-11 | drag5 | Air resistance switches off for 5 seconds (HYPE) | NOT scheduled – FavStash post limit (50/50) reached; intended slot Sat 21.11 04:00 Berlin / 03:00 UTC | 5-second countdown |
 | 2026-11-12 | rubber5 | All rubber vanishes for 5 seconds (HYPE) | manual 18:00 Thu 12.11 (owner) | 5-second countdown |
+| 2026-11-13 | quicksand5 | The ground turns into quicksand for 5 seconds (HYPE) | manual 18:00 Fri 13.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -192,3 +193,11 @@
 ## 13 Nov run (night slot) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 14.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC, already reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.11): no new video – scheduling impossible, a second unschedulable video only piles up. Owner informed again (upgrade to Creator Pro or upload drag5 manually).
+
+## 13 Nov run (Mode B, ~13:00 Sofia) – quicksand5 for Fri 13.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Fri 13.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,547 / 26 shares still the only breakout; Teens France P2 987; Teens Germany P1 640. IG: Teens Germany P1 1,681; Rewind 1,466 (<8 h); France P2 1,466; Salaries/Cars 1,448. Unchanged → HYPE.
+- Topic: all ground turns into quicksand for 5 s (you sink into the sidewalk knee deep; cars to the doors, bus to the windows; buildings tip like drunk dominoes – "that's real, Japan 1964"; soccer game, 22 players waist deep, ref still gives a yellow card; good news: you can't fully sink, you float; ground back solid, you're stuck at the waist; pulling one foot out = force to lift a car, "you live here now"). Not in log/queue/saves.
+- Facts checked: people can't fully sink in quicksand, pulling a foot out takes about the force needed to lift a medium-sized car (Nature news 28.9.2005, Bonn et al.); Niigata 1964 liquefaction – apartment blocks tilted, one overturned (Wikipedia "1964 Niigata earthquake"). Stylised 5-s premise.
+- Trend saves (7 days): none.
+- 41.9 s, -14.1 LUFS. videos/quicksand5_v1.mp4 on branch videos. Not scheduled in FavStash.
