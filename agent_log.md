@@ -201,3 +201,13 @@
 - Facts checked: people can't fully sink in quicksand, pulling a foot out takes about the force needed to lift a medium-sized car (Nature news 28.9.2005, Bonn et al.); Niigata 1964 liquefaction – apartment blocks tilted, one overturned (Wikipedia "1964 Niigata earthquake"). Stylised 5-s premise.
 - Trend saves (7 days): none.
 - 41.9 s, -14.1 LUFS. videos/quicksand5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 14 Nov 2026, ~UTC morning, last 14 days)
+- TikTok top: Glass 5 s – 7,553 views / 26 shares (HYPE); Teens France P2 re-upload 987; Teens Germany P1 640 / 2 shares; Serbia P3 627.
+- TikTok newest: ice5 (HYPE, 14.11 03:00 UTC) 303 after a few hours; Rewind 10 s (13.11) 289; Switzerland real/fake 258; Draft P3 241.
+- Instagram top: Teens Germany P1 1,681; **ice5 1,672 after only a few hours (reach 1,435, best reach of all, avg watch 27.3 s, 2 comments)**; Rewind 1,500; France P2 1,466; Salaries 1,450.
+- Conclusion: HYPE countdown (ice5) is the fastest-starting IG reel so far; TikTok still ~250–300 for everything except Glass. Keep HYPE.
+
+## 14 Nov run (night slot) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 15.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC, still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12./13.11): no new video – scheduling impossible. Owner informed again.
