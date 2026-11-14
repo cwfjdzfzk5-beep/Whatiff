@@ -141,6 +141,7 @@
 | 2026-11-11 | drag5 | Air resistance switches off for 5 seconds (HYPE) | NOT scheduled – FavStash post limit (50/50) reached; intended slot Sat 21.11 04:00 Berlin / 03:00 UTC | 5-second countdown |
 | 2026-11-12 | rubber5 | All rubber vanishes for 5 seconds (HYPE) | manual 18:00 Thu 12.11 (owner) | 5-second countdown |
 | 2026-11-13 | quicksand5 | The ground turns into quicksand for 5 seconds (HYPE) | manual 18:00 Fri 13.11 (owner) | 5-second countdown |
+| 2026-11-14 | paper5 | All paper vanishes for 5 seconds (HYPE) | manual 18:00 Sat 14.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -211,3 +212,11 @@
 ## 14 Nov run (night slot) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 15.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC, still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12./13.11): no new video – scheduling impossible. Owner informed again.
+
+## 14 Nov run (Mode B, ~13:00 Sofia) – paper5 for Sat 14.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Sat 14.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,553 / 26 shares still the only breakout; ice5 332 after <10 h (best start of the recent ones); Rewind 289. IG: ice5 1,681 views / reach 1,441 (now #1 with Teens Germany P1 1,681), Rewind 1,500. → HYPE countdown confirmed on IG.
+- Topic: all paper vanishes for 5 s (coffee cup → only the plastic lining → hot coffee on your shoes; every cardboard box gone, forklift guy buried in rubber ducks; drywall = gypsum wrapped in paper → walls crumble, neighbour mid-karaoke; egg/milk cartons + flour bags → aisle 5 = pancake batter; toilet paper gone incl. tube, "a million people mid-wipe, pray for them"; paper back, cup empty, coffee in your socks; cash survived – it's cotton – still broke). Not in log/queue/saves.
+- Facts checked: drywall = gypsum core between paper facings (Encyclopedia.com/Wikipedia); US notes 75% cotton / 25% linen (uscurrency.gov), euro notes cotton; paper cups have a polyethylene lining (BASF). Stylised 5-s premise.
+- Trend saves (7 days): none.
+- 42.8 s, -14.0 LUFS. videos/paper5_v1.mp4 on branch videos. Not scheduled in FavStash.
