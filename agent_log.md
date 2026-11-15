@@ -220,3 +220,13 @@
 - Facts checked: drywall = gypsum core between paper facings (Encyclopedia.com/Wikipedia); US notes 75% cotton / 25% linen (uscurrency.gov), euro notes cotton; paper cups have a polyethylene lining (BASF). Stylised 5-s premise.
 - Trend saves (7 days): none.
 - 42.8 s, -14.0 LUFS. videos/paper5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 15 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,560 views / 26 shares (HYPE); Teens France P2 re-upload 987; Teens Germany P1 640 / 2 shares.
+- TikTok newest: ice5 (HYPE, 14.11) 415 – best of the recent uploads; Rewind 10 s 294.
+- Instagram top: **ice5 1,691 (reach 1,448) – now #1**; Teens Germany P1 1,681 (6 saves); onelang (15.11) 1,549 after <1 day; Rewind 1,500.
+- Conclusion: HYPE countdown keeps winning on IG; TikTok still ~300–400 except Glass. Keep HYPE.
+
+## 15 Nov run (night slot) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 16.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–14.11): no new video – scheduling impossible. Owner informed again.
