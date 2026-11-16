@@ -143,6 +143,7 @@
 | 2026-11-13 | quicksand5 | The ground turns into quicksand for 5 seconds (HYPE) | manual 18:00 Fri 13.11 (owner) | 5-second countdown |
 | 2026-11-14 | paper5 | All paper vanishes for 5 seconds (HYPE) | manual 18:00 Sat 14.11 (owner) | 5-second countdown |
 | 2026-11-15 | bolts5 | Every screw, bolt and rivet vanishes for 5 seconds (HYPE) | manual 18:00 Sun 15.11 (owner) | 5-second countdown |
+| 2026-11-16 | motor5 | Every motor on Earth goes full power for 5 seconds (HYPE) | manual 18:00 Mon 16.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -249,3 +250,11 @@
 ## 16 Nov run (night slot) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 17.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.–15.11): no new video – scheduling impossible. Owner informed again.
+
+## 16 Nov run (Mode B, ~13:00 Sofia) – motor5 for Mon 16.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Mon 16.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok Glass 5 s 7,565 / 26 shares still the only breakout; Teens France P2 987; Teens Germany P1 640. IG: ice5 1,693 (reach 1,450, skip 19.6% lowest); Teens Germany P1 1,681; onelang 1,567. Unchanged → HYPE.
+- Topic: every motor on Earth goes full power for 5 s (rev gauge slams into the red, cars burn out; blender 30,000 RPM → lid gone, smoothie on the ceiling; every car floors it, even the parked ones, driver still buying coffee; washing machine on full spin walks out the door; mall escalator = launch ramp, everyone lands in the food court; office ceiling fan rips loose and chases the boss, "Hell yeah."; motors back, everything stops, everyone alive, sticky; laundry 3 blocks away, boss finally did cardio). Not in log/queue (queue: plastic, glue, copper, helium)/saves. Different from helium5 (engines die there; here everything overdrives).
+- Facts checked: high-power blenders up to ~30,000 RPM (Waring Xtreme/X-Prep spec pages); modern cars contain dozens of electric motors (EE World "How many electric motors are in a car" – not claimed on screen); unbalanced washers "walking" is a known real effect. Stylised 5-s premise.
+- Trend saves (7 days): none.
+- 43.9 s, -14.1 LUFS. videos/motor5_v1.mp4 on branch videos. Not scheduled in FavStash.

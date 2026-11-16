@@ -1,0 +1,86 @@
+[
+ {
+  "i": 0,
+  "text": "Bad news. Every motor on Earth just hit full power. For five seconds.",
+  "start": 0.25,
+  "end": 4.264
+ },
+ {
+  "i": 1,
+  "text": "Second one.",
+  "start": 4.464,
+  "end": 5.357
+ },
+ {
+  "i": 2,
+  "text": "Your blender. Thirty thousand RPM. The lid is gone. So is your ceiling.",
+  "start": 5.477,
+  "end": 9.51
+ },
+ {
+  "i": 3,
+  "text": "Second two.",
+  "start": 9.71,
+  "end": 10.581
+ },
+ {
+  "i": 4,
+  "text": "Every car floors it. Even the parked ones. The driver is still buying coffee.",
+  "start": 10.701,
+  "end": 14.888
+ },
+ {
+  "i": 5,
+  "text": "Second three.",
+  "start": 15.088,
+  "end": 16.004
+ },
+ {
+  "i": 6,
+  "text": "Washing machine. Full spin. It walks out the door. Your laundry just left you.",
+  "start": 16.124,
+  "end": 20.124
+ },
+ {
+  "i": 7,
+  "text": "Second four.",
+  "start": 20.324,
+  "end": 21.208
+ },
+ {
+  "i": 8,
+  "text": "The mall escalator turns into a launch ramp. Everyone lands in the food court.",
+  "start": 21.328,
+  "end": 25.887
+ },
+ {
+  "i": 9,
+  "text": "Second five.",
+  "start": 26.087,
+  "end": 27.005
+ },
+ {
+  "i": 10,
+  "text": "The office ceiling fan rips loose. It chases your boss. Hell yeah.",
+  "start": 27.125,
+  "end": 30.716
+ },
+ {
+  "i": 11,
+  "text": "Motors back to normal. Everything stops. Everyone's alive. Sticky. But alive.",
+  "start": 30.936,
+  "end": 35.357
+ },
+ {
+  "i": 12,
+  "text": "Your laundry is three blocks away. And your boss finally did cardio.",
+  "start": 35.557,
+  "end": 39.447
+ },
+ {
+  "i": 13,
+  "text": "What should go full power next? Comment it, or I pick something worse.",
+  "start": 39.667,
+  "end": 43.151
+ }
+]
