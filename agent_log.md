@@ -239,3 +239,13 @@
 - Facts checked: Eiffel Tower 2.5 million rivets (toureiffel.paris); wheels held by lug nuts/bolts; steel coaster track sections bolted at joints (coaster101). Stylised 5-s premise.
 - Trend saves (7 days): none.
 - 44.7 s, -14.1 LUFS. videos/bolts5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 16 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,565 views / 26 shares (HYPE); Teens France P2 re-upload 987; Teens Germany P1 640 / 2 shares.
+- TikTok bottom (of top 6): Phones 586; France P2 original 622; Serbia P3 627.
+- Instagram top: **ice5 1,693 (reach 1,450, skip 19.6% = lowest, avg watch 27.2 s)**; Teens Germany P1 1,681; onelang 1,567 (~30 h); Rewind 1,501; France P2 1,467.
+- Conclusion: unchanged – HYPE countdown has the lowest IG skip rate; TikTok still only Glass breaks out. Keep HYPE.
+
+## 16 Nov run (night slot) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026). Queue 17.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–15.11): no new video – scheduling impossible. Owner informed again.
