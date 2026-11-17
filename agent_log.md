@@ -144,6 +144,7 @@
 | 2026-11-14 | paper5 | All paper vanishes for 5 seconds (HYPE) | manual 18:00 Sat 14.11 (owner) | 5-second countdown |
 | 2026-11-15 | bolts5 | Every screw, bolt and rivet vanishes for 5 seconds (HYPE) | manual 18:00 Sun 15.11 (owner) | 5-second countdown |
 | 2026-11-16 | motor5 | Every motor on Earth goes full power for 5 seconds (HYPE) | manual 18:00 Mon 16.11 (owner) | 5-second countdown |
+| 2026-11-17 | bounce5 | Everything turns into a super ball for 5 seconds (HYPE) | manual 18:00 Tue 17.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -269,3 +270,11 @@
 ## 17 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue 18.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.–16.11): no new video – scheduling impossible. Owner informed again.
+
+## 17 Nov run (Mode B, ~13:00 Sofia) – bounce5 for Tue 17.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Tue 17.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok – Glass now outside the 14-day window; Teens France P2 987; plastic5 (HYPE, 17.11 03:00 UTC) 489 after ~8 h (27 likes = best like rate); ice5 417. IG: ice5 1,695 (skip 19.6%); Teens Germany P1 1,681; plastic5 1,459 after ~8 h with 5 comments (most of any video). → HYPE countdown keeps winning.
+- Topic: everything turns into a super ball for 5 s (you trip, the sidewalk throws you back up; phone slips, hits the floor, rockets into your forehead – "Bonk."; two cars tap bumpers and launch like pinballs, a bus bounces over both; every step = one floor, "trampoline park from hell"; office stapler ricochets floor → ceiling → boss, boss bounces too; you're 2 floors up when the bounce switches off → splat into a hedge, alive; bus lands in a fountain, also alive; your phone is still bouncing, somehow). Not in log/queue (queue: glue, copper, helium)/saves.
+- Facts checked: a Super Ball bounces back up to ~90% of its drop height (Wikipedia "Super Ball", TeachEngineering) → chip "SUPER BALL: BOUNCES BACK ~90%". Rest stylised 5-s premise, no numbers claimed.
+- Trend saves (7 days): none.
+- 45.4 s (just over the 45 s target, under the 50 s cap), -14.0 LUFS. videos/bounce5_v1.mp4 on branch videos. Not scheduled in FavStash.
