@@ -258,3 +258,14 @@
 - Facts checked: high-power blenders up to ~30,000 RPM (Waring Xtreme/X-Prep spec pages); modern cars contain dozens of electric motors (EE World "How many electric motors are in a car" – not claimed on screen); unbalanced washers "walking" is a known real effect. Stylised 5-s premise.
 - Trend saves (7 days): none.
 - 43.9 s, -14.1 LUFS. videos/motor5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 17 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: Glass 5 s – 7,568 views / 26 shares (HYPE); Teens France P2 re-upload 987; Teens Germany P1 640 / 2 shares.
+- TikTok newest: **plastic5 (HYPE, 17.11 03:00 UTC) 424 after ~6 h – best start since Glass**; ice5 417.
+- TikTok bottom (of top 8): ice5 417; plastic5 424 (fresh); Phones 586.
+- Instagram top: ice5 1,695 (reach 1,452); Teens Germany P1 1,681; onelang 1,570; Rewind 1,501; plastic5 1,458 after ~6 h.
+- Conclusion: unchanged – HYPE countdown is the best-starting format on both platforms. Keep HYPE.
+
+## 17 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue 18.–20.11 full (03:00 UTC) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–16.11): no new video – scheduling impossible. Owner informed again.
