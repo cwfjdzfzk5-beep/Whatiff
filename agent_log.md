@@ -278,3 +278,14 @@
 - Facts checked: a Super Ball bounces back up to ~90% of its drop height (Wikipedia "Super Ball", TeachEngineering) → chip "SUPER BALL: BOUNCES BACK ~90%". Rest stylised 5-s premise, no numbers claimed.
 - Trend saves (7 days): none.
 - 45.4 s (just over the 45 s target, under the 50 s cap), -14.0 LUFS. videos/bounce5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 18 Nov 2026, ~09:00 UTC, last 14 days)
+- TikTok top: Teens France P2 re-upload 987; Serbia P3 630; France P2 original 622; **plastic5 521 (28 likes, best like rate)**; ice5 417. Glass 5 s now outside the 14-day window.
+- TikTok newest/bottom: glue5 (HYPE, 18.11 03:00 UTC) 340 after ~6 h; Rewind 297; Switzerland real/fake 264. 0 shares on all top 8.
+- Instagram top: ice5 1,696 (reach 1,453, skip 19.7% = lowest); onelang 1,571; Rewind 1,501; plastic5 1,476 (5 comments, 2 saves, best like rate 37.6/1k); glue5 1,426 after ~6 h (avg watch 29.6 s).
+- Instagram bottom (of top 8): Cars 1,453; Salaries 1,451; glue5 1,426 (fresh).
+- Conclusion: unchanged – HYPE countdown is the best starter on both platforms (plastic5 best TikTok likes, ice5 lowest IG skip). Keep HYPE.
+
+## 18 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue 19.–20.11 full (03:00 UTC: copper5, helium5) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–17.11): no new video – scheduling impossible. Owner informed again.
