@@ -145,6 +145,7 @@
 | 2026-11-15 | bolts5 | Every screw, bolt and rivet vanishes for 5 seconds (HYPE) | manual 18:00 Sun 15.11 (owner) | 5-second countdown |
 | 2026-11-16 | motor5 | Every motor on Earth goes full power for 5 seconds (HYPE) | manual 18:00 Mon 16.11 (owner) | 5-second countdown |
 | 2026-11-17 | bounce5 | Everything turns into a super ball for 5 seconds (HYPE) | manual 18:00 Tue 17.11 (owner) | 5-second countdown |
+| 2026-11-18 | cables5 | Every cable and rope on Earth vanishes for 5 seconds (HYPE) | manual 18:00 Wed 18.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -289,3 +290,11 @@
 ## 18 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue 19.–20.11 full (03:00 UTC: copper5, helium5) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.–17.11): no new video – scheduling impossible. Owner informed again.
+
+## 18 Nov run (Mode B, ~13:00 Sofia) – cables5 for Wed 18.11 18:00 (owner uploads)
+- First date without a "manual 18:00" entry was today (Wed 18.11), so this video is for TODAY 18:00.
+- Data (14 days): TikTok – Teens France P2 987; Serbia P3 630; plastic5 522 (28 likes, best like rate); glue5 (HYPE, 18.11 03:00 UTC) 500 after ~9 h with 2 comments. IG: ice5 1,696 (skip 19.7% lowest); onelang 1,571; plastic5 1,476 (5 comments); glue5 1,430 (avg watch 29.6 s). → HYPE countdown keeps winning.
+- Topic: every cable and rope on Earth vanishes for 5 s (hook: your zip line vanishes mid-ride over a lake; splash; every ski lift drops its chairs, skiers face first in the snow; tow truck rope gone → car rolls back through a car wash, "free wash"; tug of war final, both teams slam into the mud, nobody wins; crane loses a grand piano, half a ton, 20 floors up, empty street, BOOM; stadium concert light rig on steel cables, band jumps, crash; cables back, everyone alive – wet, muddy, furious – the piano not so much). Not in log/queue (queue: copper5, helium5)/saves. Deliberately no power lines/elevators (overlap with copper5/alu5).
+- Facts checked: concert grand piano ~480 kg (Steinway Model D spec pages) → "half a ton"; arena/festival rigging hangs trusses on steel wire rope slings + chain hoists (rigging guides). Rest stylised 5-s premise, no numbers claimed.
+- Trend saves (7 days): none.
+- 44.4 s, -14.0 LUFS. videos/cables5_v1.mp4 on branch videos. Not scheduled in FavStash.
