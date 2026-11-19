@@ -298,3 +298,14 @@
 - Facts checked: concert grand piano ~480 kg (Steinway Model D spec pages) → "half a ton"; arena/festival rigging hangs trusses on steel wire rope slings + chain hoists (rigging guides). Rest stylised 5-s premise, no numbers claimed.
 - Trend saves (7 days): none.
 - 44.4 s, -14.0 LUFS. videos/cables5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 19 Nov 2026, ~03:00 UTC, last 14 days)
+- TikTok top: Teens France P2 re-upload 987; plastic5 524 (28 likes, best like rate); glue5 514 (2 comments); ice5 417. 0 shares on all top 8.
+- TikTok bottom (of top 8): Switzerland real/fake 266; Draft P3 241; Draft P2 213.
+- Instagram top: ice5 1,699 (reach 1,455); onelang 1,572; Rewind 1,502; plastic5 1,477 (48 likes, 5 comments).
+- Instagram bottom (of top 8): Cars 1,455; Salaries 1,452; glue5 1,436.
+- Conclusion: unchanged – HYPE countdown videos are the best starters on both platforms. Keep HYPE.
+
+## 19 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue: only helium5 on 20.11 03:00 UTC → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–18.11): no new video – scheduling impossible. Owner informed again.
