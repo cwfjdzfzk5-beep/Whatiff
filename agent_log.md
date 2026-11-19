@@ -309,3 +309,11 @@
 ## 19 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue: only helium5 on 20.11 03:00 UTC → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.–18.11): no new video – scheduling impossible. Owner informed again.
+
+## 19 Nov run (Mode B, ~13:00 Sofia) – loud5 for Thu 19.11 18:00 (owner uploads)
+- Slot: manual 18:00 Thu 19.11 (first date without a "manual 18:00" entry was today).
+- Data (14 days): TikTok – Teens France P2 987; plastic5 524 (28 likes); glue5 514; ice5 417. IG: ice5 top (avg watch 27 s); onelang; Rewind; plastic5 (5 comments); glue5 1.4k (avg watch 29.5 s). Unchanged → HYPE.
+- Topic: every sound on Earth gets 100x louder for 5 s (hook: you just sneezed → every window on the street gone; dog barks → every car alarm goes off, every windshield cracks; stadium, 60,000 fans scream GOAL → goalie blasted into his own net; library, someone opens a bag of chips → every shelf down like dominoes; baby cries on a plane → every overhead bin bursts open, suitcases everywhere; metal concert, first chord → speakers fire like cannons, front row is now the back row; sound back, everyone alive, ears ringing, boss yelling – "good news: you can't hear him"). Not in log/queue (queue: only helium5 20.11)/saves.
+- Facts checked: loudest stadium crowd roar 142.2 dB, Arrowhead Stadium 2014 (Guinness / chiefs.com) → chip "LOUDEST CROWD EVER: 142 DB"; loud enough pressure waves (sonic booms, ~0.5 psi) do break windows (Wikipedia "Sonic boom", USAF fact sheet). Rest stylised 5-s premise.
+- Trend saves (7 days): none.
+- 45.3 s, -14.0 LUFS. videos/loud5_v1.mp4 on branch videos. Not scheduled in FavStash.
