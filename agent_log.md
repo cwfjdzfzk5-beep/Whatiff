@@ -317,3 +317,12 @@
 - Facts checked: loudest stadium crowd roar 142.2 dB, Arrowhead Stadium 2014 (Guinness / chiefs.com) → chip "LOUDEST CROWD EVER: 142 DB"; loud enough pressure waves (sonic booms, ~0.5 psi) do break windows (Wikipedia "Sonic boom", USAF fact sheet). Rest stylised 5-s premise.
 - Trend saves (7 days): none.
 - 45.3 s, -14.0 LUFS. videos/loud5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 20 Nov 2026, ~UTC morning, last 14 days)
+- TikTok top: plastic5 524 (28 likes); glue5 514 (2 comments); ice5 417; Rewind 297. Bottom (of top 8): Draft P3 241; Draft P2 213; magnet 208. 0 shares on all top 8. copper5/helium5 not yet in top 8.
+- Instagram top: ice5 1,700 (skip 19.8% lowest); onelang 1,572; Rewind 1,502; plastic5 1,478 (5 comments). Bottom (of top 8): Salaries 1,452; glue5 1,437; Sleep 1,411.
+- Conclusion: unchanged – HYPE countdown videos lead on both platforms. Keep HYPE.
+
+## 20 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue now empty (helium5 published 20.11 03:00 UTC on TikTok + IG) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
+- Decision (same as 12.–19.11): no new video – scheduling impossible. Owner informed again.
