@@ -146,6 +146,7 @@
 | 2026-11-16 | motor5 | Every motor on Earth goes full power for 5 seconds (HYPE) | manual 18:00 Mon 16.11 (owner) | 5-second countdown |
 | 2026-11-17 | bounce5 | Everything turns into a super ball for 5 seconds (HYPE) | manual 18:00 Tue 17.11 (owner) | 5-second countdown |
 | 2026-11-18 | cables5 | Every cable and rope on Earth vanishes for 5 seconds (HYPE) | manual 18:00 Wed 18.11 (owner) | 5-second countdown |
+| 2026-11-20 | springs5 | Every spring on Earth vanishes for 5 seconds (HYPE) | manual 18:00 Fri 20.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -326,3 +327,11 @@
 ## 20 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue now empty (helium5 published 20.11 03:00 UTC on TikTok + IG) → first free night Sat 21.11 03:00 UTC (04:00 Berlin), still reserved for drag5 (built 11.11, media imported, unscheduled).
 - Decision (same as 12.–19.11): no new video – scheduling impossible. Owner informed again.
+
+## 20 Nov run (Mode B, ~13:00 Sofia) – springs5 for Fri 20.11 18:00 (owner uploads)
+- Slot: manual 18:00 Fri 20.11 (first date without a "manual 18:00" entry was today).
+- Data (14 days): TikTok – plastic5 524 (28 likes); glue5 514; ice5 417; Rewind 297. IG: ice5 1,700; onelang 1,572; Rewind 1,502; plastic5 1,478; glue5 1,437. Unchanged → HYPE.
+- Queue (list_social_posts, next 14 days): empty. Trend saves (7 days): none.
+- Topic: every spring on Earth vanishes for 5 s (hook: you're mid-jump on a trampoline; highway – every car slams onto its belly, sparks; office – every chair (gas spring) drops, boss vanishes behind his desk; garage door held up by springs slams onto Dad's new car, crunch; every mattress folds, every nap hits the floor; you: mat gone, butt first into the dirt; springs back "fully squished" → cars jump, toasters fire toast into the ceiling, you get launched into the neighbor's pool, alive; boss shot into the ceiling by his chair, "Best Friday ever"). Not in log/queue/saves. Different from bounce5 (super-ball bounce) – here things drop, the boing is only the payoff.
+- Facts checked (qualitative only, no numbers on screen): garage doors are counterbalanced by torsion springs (garaga.com, ddmgaragedoors.com); office chair height = gas spring cylinder (explainthatstuff.com "Gas springs"); innerspring mattresses = coil cores (sleepfoundation.org). Rest stylised 5-s premise.
+- 44.0 s, -14.1 LUFS. videos/springs5_v1.mp4 on branch videos. Not scheduled in FavStash.
