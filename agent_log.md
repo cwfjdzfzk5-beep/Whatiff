@@ -23,6 +23,7 @@
 | 2026-11-08 | concrete5 | All concrete vanishes for 5 seconds (HYPE) | manual 18:00 Sun 8.11 (owner) | 5-second countdown |
 | 2026-11-09 | copper5 | All copper vanishes for 5 seconds (HYPE) | Thu 19.11 04:00 Berlin / 03:00 UTC (TikTok + IG) | 5-second countdown |
 | 2026-11-09 | square5 | Every wheel on Earth turns square for 5 seconds (HYPE) | manual 18:00 Mon 9.11 (owner) | 5-second countdown |
+| 2026-11-21 | sideways5 | Gravity turns sideways for 5 seconds (HYPE) | manual 18:00 Sat 21.11 (owner) | 5-second countdown |
 
 ## Performance (TikTok, as of 3 Nov 2026, 22:50 Sofia)
 - Top: "Glass disappears for 5 seconds" – 7,504 views, 26 shares (fast, physical chaos)
@@ -344,3 +345,11 @@
 ## 21 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue (next 14 days) empty → first free night is now Sun 22.11 03:00 UTC (04:00 Berlin); the 21.11 slot reserved for drag5 has passed unused. drag5 (built 11.11, media imported) still waits.
 - Decision (same as 12.–20.11): no new video – scheduling impossible. Owner informed again.
+
+## 21 Nov run (Mode B, ~13:00 Sofia) – sideways5 for Sat 21.11 18:00 (owner uploads)
+- Slot: manual 18:00 Sat 21.11 (first date without a "manual 18:00" entry was today).
+- Data (14 days): TikTok – plastic5 524 (28 likes); glue5 514; ice5 417; Rewind 297. IG: ice5 1,700 (skip 19.8%); onelang 1,572; Rewind 1,502; plastic5 1,478 (5 comments); glue5 1,437. Unchanged → HYPE.
+- Queue (list_social_posts, next 14 days): empty. Trend saves (7 days): none.
+- Topic: gravity turns sideways for 5 s (hook: gravity arrow swings sideways, you fall down the street; every car slides off the road into the same wall, stacked like Tetris; office – desks, chairs, printers, the boss, one giant pile in the corner; every swimming pool pours out sideways, wall of water through the neighborhood; skyscrapers become diving boards, creaking; you: 400 feet in 5 s, "hell of a commute"; gravity back – everything drops, cars land on cars, pool water lands on everyone; you land in a dumpster behind a mattress store, alive, smelling like cardboard; CTA "Which way should gravity go next?"). Not in log/queue/saves. Different from gravity2 (gravity doubles, still down).
+- Facts checked: free fall for 5 s ≈ 122.5 m ≈ 400 ft (d = ½·g·t², Physics Classroom "Free Fall"). Rest stylised 5-s premise.
+- New CUSTOM word: tetris. 46.5 s (slightly over the 45 s target, under the 50 s cap), -14.1 LUFS. videos/sideways5_v1.mp4 on branch videos. Not scheduled in FavStash.
