@@ -335,3 +335,12 @@
 - Topic: every spring on Earth vanishes for 5 s (hook: you're mid-jump on a trampoline; highway – every car slams onto its belly, sparks; office – every chair (gas spring) drops, boss vanishes behind his desk; garage door held up by springs slams onto Dad's new car, crunch; every mattress folds, every nap hits the floor; you: mat gone, butt first into the dirt; springs back "fully squished" → cars jump, toasters fire toast into the ceiling, you get launched into the neighbor's pool, alive; boss shot into the ceiling by his chair, "Best Friday ever"). Not in log/queue/saves. Different from bounce5 (super-ball bounce) – here things drop, the boing is only the payoff.
 - Facts checked (qualitative only, no numbers on screen): garage doors are counterbalanced by torsion springs (garaga.com, ddmgaragedoors.com); office chair height = gas spring cylinder (explainthatstuff.com "Gas springs"); innerspring mattresses = coil cores (sleepfoundation.org). Rest stylised 5-s premise.
 - 44.0 s, -14.1 LUFS. videos/springs5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 21 Nov 2026, ~08:45 UTC, last 14 days)
+- TikTok top: plastic5 524 (28 likes); glue5 514; ice5 417; Rewind 297. Bottom (of top 8): Draft P3 241; Draft P2 213; onelang 205. copper5/helium5 (19./20.11) not in top 8 (<205). 0 shares on all top 8.
+- Instagram top: ice5 1,700 (reach 1,456); onelang 1,572; Rewind 1,502; plastic5 1,478 (5 comments). Bottom (of top 8): Salaries 1,452; glue5 1,437; Sleep 1,411.
+- Conclusion: unchanged – HYPE countdown videos lead on both platforms, but numbers are flat. Keep HYPE.
+
+## 21 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue (next 14 days) empty → first free night is now Sun 22.11 03:00 UTC (04:00 Berlin); the 21.11 slot reserved for drag5 has passed unused. drag5 (built 11.11, media imported) still waits.
+- Decision (same as 12.–20.11): no new video – scheduling impossible. Owner informed again.
