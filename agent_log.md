@@ -148,6 +148,7 @@
 | 2026-11-17 | bounce5 | Everything turns into a super ball for 5 seconds (HYPE) | manual 18:00 Tue 17.11 (owner) | 5-second countdown |
 | 2026-11-18 | cables5 | Every cable and rope on Earth vanishes for 5 seconds (HYPE) | manual 18:00 Wed 18.11 (owner) | 5-second countdown |
 | 2026-11-20 | springs5 | Every spring on Earth vanishes for 5 seconds (HYPE) | manual 18:00 Fri 20.11 (owner) | 5-second countdown |
+| 2026-11-22 | waterup5 | Water falls UP for 5 seconds (HYPE) | manual 18:00 Sun 22.11 (owner) | 5-second countdown |
 
 ## Performance (as of 11 Nov 2026, ~09:00 UTC, last 14 days)
 - TikTok top: Glass 5 s – 7,545 views / 26 shares (HYPE); Teens France P2 re-upload 985; Teens Germany P1 640 / 2 shares.
@@ -362,3 +363,11 @@
 ## 22 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
 - FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue (next 14 days) empty → first free night would be Mon 23.11 03:00 UTC (04:00 Berlin). drag5 (built 11.11, media imported) still waits.
 - Decision (same as 12.–21.11): no new video – scheduling impossible. Owner informed again.
+
+## 22 Nov run (Mode B, ~13:00 Sofia) – waterup5 for Sun 22.11 18:00 (owner uploads)
+- Slot: manual 18:00 Sun 22.11 (first date without a "manual 18:00" entry was today).
+- Data (14 days): TikTok – plastic5 524 (28 likes); glue5 514; ice5 417; Rewind 297; copper5 200 (bottom). IG: ice5 top (avg watch 27 s); onelang; Rewind; plastic5 (5 comments); glue5 (avg watch 29 s). Unchanged → HYPE.
+- Queue (list_social_posts, next 14 days): empty. Trend saves (7 days): none.
+- Topic: water falls UP for 5 s (hook: you're in a swimming pool, water starts rising; your pool lifts off with you in it, "hold your breath, champ"; every office coffee shoots out of the cup into the ceiling; rain falls up, puddles follow, umbrellas useless; the ocean lifts off, 2 miles of water, every ship drops onto the sea floor; every fish tank empties into the sky, goldfish sees its first cloud, "it has questions"; water back all at once, ocean slams down, ships pop back up; your pool lands back in the pool, alive, perfect 10, phone dead; CTA "What should fall up next?"). Not in log/queue/saves. Different from ice5 (water freezes) and sideways5/gravity2 (gravity for everything).
+- Facts checked: average ocean depth ≈ 12,100 ft / 3,682 m ≈ 2.3 mi (NOAA Ocean Explorer / Ocean Service "How deep is the ocean?") → "two miles of water" + chip "AVG OCEAN DEPTH: 2.3 MI". Rest stylised 5-s premise.
+- 45.6 s (slightly over 45 target, under 50 cap), -14.1 LUFS. videos/waterup5_v1.mp4 on branch videos. Not scheduled in FavStash.
