@@ -353,3 +353,12 @@
 - Topic: gravity turns sideways for 5 s (hook: gravity arrow swings sideways, you fall down the street; every car slides off the road into the same wall, stacked like Tetris; office – desks, chairs, printers, the boss, one giant pile in the corner; every swimming pool pours out sideways, wall of water through the neighborhood; skyscrapers become diving boards, creaking; you: 400 feet in 5 s, "hell of a commute"; gravity back – everything drops, cars land on cars, pool water lands on everyone; you land in a dumpster behind a mattress store, alive, smelling like cardboard; CTA "Which way should gravity go next?"). Not in log/queue/saves. Different from gravity2 (gravity doubles, still down).
 - Facts checked: free fall for 5 s ≈ 122.5 m ≈ 400 ft (d = ½·g·t², Physics Classroom "Free Fall"). Rest stylised 5-s premise.
 - New CUSTOM word: tetris. 46.5 s (slightly over the 45 s target, under the 50 s cap), -14.1 LUFS. videos/sideways5_v1.mp4 on branch videos. Not scheduled in FavStash.
+
+## Performance (as of 22 Nov 2026, ~03:00 UTC, last 14 days)
+- TikTok top: plastic5 524 (28 likes); glue5 514 (2 comments); ice5 417. Bottom (of top 8): Draft P3 241; onelang 205; copper5 200 (3 likes). 0 shares on all top 8.
+- Instagram top: ice5 1,700 (skip 19.8% lowest); onelang 1,573; Rewind 1,502; plastic5 1,478 (5 comments, best like rate). Bottom (of top 8): glue5 1,437; Sleep 1,411; Square wheels 1,404.
+- Conclusion: unchanged and flat – HYPE countdown videos still lead on both platforms. Keep HYPE.
+
+## 22 Nov run (night slot, 04:00 Berlin / 03:00 UTC) – NOTHING built, NOT scheduled
+- FavStash still at LIMIT: postsThisMonth 50/50 on "Doom Scroller" (period ends 3.12.2026, 0 posts left). Queue (next 14 days) empty → first free night would be Mon 23.11 03:00 UTC (04:00 Berlin). drag5 (built 11.11, media imported) still waits.
+- Decision (same as 12.–21.11): no new video – scheduling impossible. Owner informed again.
